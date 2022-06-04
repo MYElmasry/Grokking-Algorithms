@@ -5,7 +5,6 @@
   * [binary search](https://github.com/MYElmasry/Grokking-Algorithms/blob/main/1.1%20binarySearch.py)
 
 * 02 selection sort
-
  * [array of linked lists](https://github.com/MYElmasry/Grokking-Algorithms/blob/main/2.1%20arrayOfLinkedLists.py)
  * [selection sort](https://github.com/MYElmasry/Grokking-Algorithms/blob/main/2.2%20SelectionSort.py)
 
